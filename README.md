@@ -4,8 +4,10 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unrealengine,unity,c,cpp,csharp,kotlin,python,java" /><br />
-    <img src="https://skillicons.dev/icons?i=androidstudio,visualstudio,git,flask" /><br />
+    <img src="https://skillicons.dev/icons?i=unrealengine,unity,c,cpp,cs,kotlin,python,java" /><br />
+    <img src="https://skillicons.dev/icons?i=androidstudio,visualstudio,git,flask,html,css,js,firebase" /><br />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="55" alt="opengl logo"  /><img width="12" />  
+    <img src="https://skillicons.dev/icons?i=opencv,cmake" />
   </a>
 </div>
 
