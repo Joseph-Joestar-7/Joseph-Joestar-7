@@ -7,7 +7,7 @@
     <img src="https://skillicons.dev/icons?i=unrealengine,unity,c,cpp,cs,kotlin,python,java" /><br />
     <img src="https://skillicons.dev/icons?i=androidstudio,visualstudio,git,flask,html,css,js,firebase" /><br />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="55" alt="opengl logo"  /><img width="12" />  
-    <img src="https://skillicons.dev/icons?i=cmake" />
+    <img src="https://skillicons.dev/icons?i=cmake,vscode" />
   </a>
 </div>
 
