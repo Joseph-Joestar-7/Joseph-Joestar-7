@@ -15,7 +15,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Joseph-Joestar-7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue_navy&locale=en&hide_border=false" height="250" alt="stats graph"  /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Joseph-Joestar-7&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=12&theme=blue_navy&hide_border=false" height="250" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Joseph-Joestar-7&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=15&theme=blue_navy&hide_border=false" height="250" alt="languages graph"  />
 <br/>
 <img src="https://nirzak-streak-stats.vercel.app/?user=Joseph-Joestar-7&theme=blue_navy&hide_border=false" height="250" alt="languages graph"  />
 </div>
