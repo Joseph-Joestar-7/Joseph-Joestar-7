@@ -1,5 +1,11 @@
 <h2 align="left">Hi 👋! My name is Ritaban Chaudhuri</h2>
 
+<p align="left">
+  I'm a <b>Game Developer</b> 🎮 who also enjoys <b>Backend Development</b> ⚙️<br>
+  I love building gameplay systems and scalable backend logic.
+</p>
+
+
 ###
 
 <div align="center">
