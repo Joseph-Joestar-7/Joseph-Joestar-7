@@ -11,9 +11,9 @@
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=unrealengine,unity,c,cpp,cs,kotlin,python,java" /><br />
-    <img src="https://skillicons.dev/icons?i=spring,androidstudio,visualstudio,git,flask,html,css,js,firebase" /><br />
+    <img src="https://skillicons.dev/icons?i=spring,androidstudio,visualstudio,flask,html,css,js,firebase" /><br />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="55" width="55" alt="opengl logo"/>
-    <img src="https://skillicons.dev/icons?i=cmake,vscode,figma,latex" />
+    <img src="https://skillicons.dev/icons?i=cmake,git,vscode,figma,latex" />
   </a>
 </div>
 
