@@ -10,11 +10,11 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unrealengine,unity,c,cpp,cs,kotlin,python,java" /><br />
+    <img src="https://skillicons.dev/icons?i=unrealengine,unity,c,cpp,cs,cmake" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="55" width="55" alt="opengl logo"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/SFML_Logo.svg" width="50px" alt="SFML" title="SFML" />
-    <img src="https://skillicons.dev/icons?i=spring,flask,html,css,js,firebase" /><br />
-    <img src="https://skillicons.dev/icons?i=cmake,git,vscode,figma,latex,androidstudio,visualstudio" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/SFML_Logo.svg" width="50px" alt="SFML" title="SFML" /><br />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,python,spring,flask,html,css,js" /><br />
+    <img src="https://skillicons.dev/icons?i=sqlite,postgres,firebase,vscode,androidstudio,visualstudio,figma,latex" />
   </a>
 </div>
 
