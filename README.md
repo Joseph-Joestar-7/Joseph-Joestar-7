@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ritaban Chaudhuri</h2>
+<h2 align="left">কেমন আছো? My name is Ritaban Chaudhuri</h2>
 
 <p align="left">
   I'm a <b>Game Developer</b> 🎮 who also does <b>Backend Development</b> ⚙️<br>
