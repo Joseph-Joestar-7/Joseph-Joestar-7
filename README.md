@@ -2,7 +2,7 @@
 
 <p align="left">
   I'm a <b>Game Developer</b> 🎮 who also does <b>Backend Development</b> ⚙️<br>
-  I love building cool gameplay systems and scalable backend logic.
+  I love building cool gameplay systems and scalable backend logic ;)
 </p>
 
 
